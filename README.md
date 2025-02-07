@@ -4,7 +4,7 @@ This is the basic structure and setup for the iNoteBook MERN stack web applicati
 
 Features: User Note Management: Users can create, update, and delete their individual notes. User Authentication: APIs for user creation, deletion, and authentication. Data Interaction: Backend APIs for fetching and managing user notes data.
 
-image
+![image](https://github.com/user-attachments/assets/d44141a8-cde1-40b4-8717-b63f5f84e0f7)
 
 Backend: The backend of the application is built with Node.js, Express, and MongoDB using Mongoose. Here are the key packages used in the backend:
 
