@@ -11,3 +11,11 @@ Backend: The backend of the application is built with Node.js, Express, and Mong
 express - Web framework for building RESTful APIs. Command: npm i express mongoose - ODM (Object Data Modeling) library for MongoDB. Command: npm i mongoose nodemon - Development tool to automatically restart the server on file changes. Command: npm i -D nodemon cors - Middleware to enable Cross-Origin Resource Sharing. Command: npm i cors express-validator - Middleware for validating request data. bcryptjs - Library for hashing and comparing passwords. jsonwebtoken (JWT) - For creating and verifying JSON Web Tokens (JWT) for authentication. Command: npm i jsonwebtoken Frontend: The frontend is built with React.js. Below are the key steps and packages used in the frontend:
 
 create-react-app - A tool for setting up a React application with a single command. Command: npx create-react-app my-app react-dom - Library that serves as the glue between React and the DOM. Command: npm install react-dom npm start - Command to start the React development server and run the app locally.
+
+hooks I used for this app:
+1-UseRef
+2-UseEffect
+3-useNavigate
+4-useContext
+5-useState
+
